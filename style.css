@@ -1,0 +1,59 @@
+body
+{
+    text-align: center;
+    border: 25px solid rgb(17, 17, 17);
+    background: #f1f1f1;
+    font-style:italic;
+    
+    
+} 
+
+.bckgrnd 
+{
+  background-color:rgb(220, 216, 228);
+}
+.background
+{
+  background-color: rgb(223, 140, 17);
+}
+.bg 
+{
+  background-color:whitesmoke;
+}
+ 
+#name 
+{
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(8, 8, 8);
+}
+
+#back, #back_1
+{
+  float: right;
+}
+
+form
+{
+  border: 5px double black;
+  width: 40%;
+  background-color: rgb(154, 218, 239);
+}
+form input
+{
+  margin-left: 20px;
+}
+#submitbutton
+{
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: rgb(90, 15, 239);
+    color:azure;
+}
+a {
+  text-decoration:overline;
+  color: rgb(33, 6, 243);
+  text-shadow: #a03877;
+  font-size: larger;
+}
+
